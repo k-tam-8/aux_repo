@@ -1,0 +1,1960 @@
+let datesArray = 
+[
+ {
+  "date": "2025.07.29",
+  "title": "The Callisto Protocol",
+  "difficulty": "Maximum Security",
+  "note": "Meg kellett szenvednem a játékkal az elején, majdnem abbahagytam egy óra után egy nehezebb résznél. Az még nem baj, csak feltűnő hogy akár a Dead Space folytatása is lehetne annyira hasonlít rá, de a gondok inkább a közelharcnál kezdődtek, ami túlzóan büntet ha a táncban egy kicsi hibát is vétesz. Ha többen jönnek még rosszabb a helyzet, és idő volt hogy ráérezzek a trükközésekre amivel meg tudtam oldani a nehezebb részeket. Többször megszívatott a checkpoint mentési rendszer, és ezzel együtt hogy nem tudtam eladni a cuccaimat időben, és így nem tudtam elég upgrade-et venni. És akkor ott vannak a játék érdemei, amik elég kontrasztosak, mert a grafika és pályadesign az tisztán AAA szint, álleejtősen szép és kidolgozott minden, ennek köszönhetően érdemli meg a négyes osztályzatot, és végül is ha belejövünk a játékba akkor élvezhető lesz."
+ },
+ {
+  "date": "2025.07.19",
+  "title": "Tony Hawks Pro Skater 3+4",
+  "difficulty": "All goals",
+  "note": "Örülni kell hogy egyáltalán létrejöhetett ez a felújítás, csak sajnálatos hogy nem bírtak több energiát belefektetni. A THPS 3. és 4. része iszonyatosan jó játék, elképesztő hangulattal és baromi jó élményt tudott adni, ennek fejében sajnálatos hogy nem kapott méltó felújítást, \"csak\" felújított pályákat mai grafikára és a THPS 1+2 rendszerét rá. Persze előjöttek a régi élmények játék közben, de ez ma már kevéske, előny hogy nem is teljes árú a játék. Meg kell még említeni a leegyszerűsített feladatokat és a régi zenék hiányát, de mivel sokáig úgy volt hogy nem is készül el ez a játék, összességében örülni lehet hogy legalább elkészült valami."
+ },
+ {
+  "date": "2025.07.12",
+  "title": "Indiana Jones and the Great Circle",
+  "difficulty": "Hard",
+  "note": "Nem csalódtam a MachineGames-ben, remek Indiana Jones játékot csináltak a Wolfenstein játékok alapjaira. Kicsit döcögősen indult, az első filmből átvett bevezető jelenetre nem biztos hogy szükség volt, viszont később nagyszerűen működik az open world megközelítés, nem bírtam ki hogy ne szedjek össze minden lehetséges dolgot és meg ne legyen a 100%. Nagyobb negatívumot se tudnék felhozni, az ellenfelek pont olyan buták mint a filmekben, így ez nem volt zavaró, inkább még jobban hozta a feelinget."
+ },
+ {
+  "date": "2025.06.09",
+  "title": "Superliminal",
+  "note": "Szuper kis átszellemülős játék, a Viewfinder-hez hasonló, de valamivel megkapóbb látványvilágú. Ennél a játéknál is van egy nagyon jó ötlet, de ugyancsak nem lett kimaxolva a benne rejlő lehetőség és csak egy rövid élményt kapunk. Az ilyen kis stúdiókat kellene felkarolniuk a nagy kiadóknak hogy egy tisztességes AAA játékot tudjanak készíteni ezekből a többre érdemes ötletekből, ahogyan a Portal 2-nél sikerült is."
+ },
+ {
+  "date": "2025.05.31",
+  "title": "Doom The Dark Ages",
+  "difficulty": "Ultra-Violence",
+  "note": "Gyengén kezdődött a játék, ami szépen fokozatosan kezdi elérni az előző részek szintjét. A fantasy környezetet nem szeretem, de mivel a játékélmény kellően jó így nem volt zavaró. Még mindig tudtak új és jó ötleteket belerakni a játékba, volt olyan ami már nagyon elcsépelt de mégis jól működött mivel profin volt elkészítve. Ami nem tetszett a játékban az egyedül a sztori beleerőltetése, ami már bűn egy Doom játéknál, de még ultra bénán is lett kitalálva és szörnyű karakterekkel, jobb nem tudomást venni róla és akkor nem tud ártani."
+ },
+ {
+  "date": "2025.05.16",
+  "title": "Chants of Sennaar",
+  "note": "Csodálatos játék! Ékes példája hogy mit ki nem lehet hozni egy indie játékból aminek a nagyját ketten készítették el. Lényegében nyelveket kell megfejteni és sok puzzle elemet megoldani, amik elég nehezek de még éppen meg lehet csinálni segítség nélkül, és ez fontos is mivel megöli a játékélményt ha csak kinézzük a megoldásokat. A Cupheadnél volt hasonló elégedettség-érzésem ha sikerült egy nehezebb részt megoldani. A kibontakozó történet a végére indul be ami hatásosabb mint jópár AAA játék sztorija. Egyértelműen a legjobbak között van és nagy meglepetés amit nyújt az elsőre nem soknak tűnő játék."
+ },
+ {
+  "date": "2025.05.11",
+  "title": "Penumbra Requiem",
+  "note": "Kiegészítő rész egy csavarral, ugyanis itt már csak logikai feladatokat kell megoldani, afféle elő Talos Principle. Ez meglepő volt, nem teljesen értem miért vették az irányt erre de végül is érdekes volt a végigjátszás, viszont ezt a részt már nem mondanám horrornak."
+ },
+ {
+  "date": "2025.05.07",
+  "title": "Penumbra Black Plague",
+  "difficulty": "Hard",
+  "note": "Az előző részhez képest alig van változás, és a játék is ott folytatódik ahol az első rész abbamaradt. Hozta a játék ugyanazt az élményt."
+ },
+ {
+  "date": "2025.05.03",
+  "title": "Penumbra Overture",
+  "difficulty": "Hard",
+  "note": "Még ma is hatásos túlélő horror, nyomasztó bolyongás egy elszigetelt sötét elhagyatott bányában, nagyon atmoszférikus para hangulattal. A grafika már megjelenéskor elavult volt, de ezen túl lehet lendülni, ami furcsa volt a fizika túlzott használata, bár ez ad egyfajta egyediséget a játékmenetnek. Igazából az egész játékot áthatja egyfajta amatőrség ami egy első fejlsztésnél érthető, és ha nem kötünk bele szándékosan a játékba akkor jó élményt tud nyújtani."
+ },
+ {
+  "date": "2025.05.02",
+  "title": "Burnout Paradise",
+  "note": "Első Burnout játékom, nem lettem rajongó. A potenciál megvan a játékban és látszik hogy van benne munka, és akkor elcsúszik azon hogy egy nyílt világban összesen néhány útvonalon kell versenyezni folyamatosan ami baromi unalmas. Szépen törik az autó, ami visszaüt mikor már alig lehet uralni az autót a gyorsaság miatt, és rendszeresen azt kell nézni a képernyőn hogy törik ripityára a kocsink. Többet vártam a játéktól, ez inkább egy nagyon laza napi frusztrációt levezető árkád játék. A licenszelt zenékkel se voltam megelégedve."
+ },
+ {
+  "date": "2025.04.21",
+  "title": "Thief (2014)",
+  "difficulty": "Master",
+  "note": "Meglepően kellemes játék volt a közvéleménnyel ellentétben, a régi Thief hangulatot nem tudja teljesen hozni de mégis egy tisztességes modernebb felfogású játék született amire szükség volt mivel a régi részek ma már elöregedtek. A harmadik rész által inspirált kísértetjárta elhagyatott szanatórium pálya külön kiemelendő, már csak ezért is megéri legalább egyszer végigjátszani a játékot. "
+ },
+ {
+  "date": "2025.04.12",
+  "title": "Splinter Cell Blacklist",
+  "difficulty": "Realistic",
+  "note": "Az első Splinter Cell játék amit igazán élveztem és jó volt vele játszani. A kor sajátosságai köszönnek vissza a játékba, és végre ki van bővítve a játékmenet, nagy szükség volt rá hogy többféle játékstílussal is tudjunk operálni, tudjunk különböző felszereléseket venni, fejleszteni tudjuk a képességeket. Sajnálatos hogy nem lett sikeres a játék, megérdemelte volna."
+ },
+ {
+  "date": "2025.04.11",
+  "title": "It Takes Two",
+  "note": "A co-op játékok királya magasan, de összességében a videojátékok között is a legjobbak között van, elképesztően ötletes, igényes, kidolgozott, AAA minőség, a játék minden másodperce gondosan ki van dolgozva. Ha nagyon akarok negatívat találni akkor azt mondanám néha a kelleténél jobban játszik az érzelmekkel, erre a fejlesztők előző játékánál is volt példa."
+ },
+ {
+  "date": "2025.04.01",
+  "title": "Splinter Cell Conviction",
+  "difficulty": "Realistic",
+  "note": "Nagyon kellett ez a reboot a szériának, és jó is az irány de nem sikerült összeállnia egy jó játékká. Rövid, semmilyen, látszik hogy több lenne benne de most nem sikerült szintet lépni."
+ },
+ {
+  "date": "2025.03.25",
+  "title": "Splinter Cell Double Agent",
+  "difficulty": "Hard",
+  "note": "Felesleges résznek hat, már kellett volna a reboot ami ezután következett. Van pár apró újdonság de ugyanolyan szürke, átlagos játék mint az ezelőtti részek. Megnehezíti a dolgot hogy a PC port botrányos munka, ráadásul sose lett kijavítva(mint pl az Arkham Knightnál). Nem ajánlott szenvedni vele, folyamatosan kilép, bezavarodik, nem ment."
+ },
+ {
+  "date": "2025.03.13",
+  "title": "Kane & Lynch 2 Dog Days",
+  "difficulty": "Hard",
+  "note": "Még semmilyenebb az előző résznél, unalmas, fantáziátlan, de legalább nem idegesítő és rövid(3 óra). Kornak megfelelően bele erőltették a kézikamerás nézetet, nem működik jól. Baklövés."
+ },
+ {
+  "date": "2025.03.10",
+  "title": "Kane & Lynch Dead Man",
+  "difficulty": "Morphine(Hard)",
+  "note": "Ezzel a játékkal mellélőtt az IO, a játékmenet a Freedom Fighterst idézi, csak itt iszonyúan ízetlen az egész. Átfutunk a rövid sztorin maradandó emlék nélkül, egyedül a pályaszerkesztés ami kiemelkedő, ebben itt is profik voltak a fejlesztők ahogy a Hitman játékokban is."
+ },
+ {
+  "date": "2025.03.02",
+  "title": "System Shock Enhanced Edition",
+  "difficulty": "Default(2)",
+  "note": "Ideje volt már belemerülni ebbe a sokat emlegetett klasszikusba, igaz véletlenül sorsoltattam ki mint következő végigjátszás. És majdnem abbahagtyam már az elején, 1994 nem most volt, ez a játék elég öreg hogy sok időt kelljen adni amíg megszokjuk az irányítást. mára egyértelmű hogy a System Shock messze megelőzte a korát, akkoriban ez hihetetlen összetett lehetett, és annyira furcsa is hogy már ezért sem lehetett anyagi siker. Érdemes végignézni milyen ötletek köszöntek vissza évekkel később a modernebb játékokban. Hamar be kellett látnom, hogy leírás nélkül nem fog menni a végigjátszás, de ez a korabeli játékoktól nem idegen. Összességében szuper a játék, pár dolog bosszantó amik a játék korából fakadnak főként, de ma is teljesen élvezhető ha megadjuk neki a kellő időt."
+ },
+ {
+  "date": "2025.02.22",
+  "title": "Resident Evil Village Shadow of Rose",
+  "difficulty": "Hardcore",
+  "note": "Kicsit megúszós sztori DLC, mivel szinte csak az alapjáték helszínei vannak benne. Érthetetlenül ránk van erőltetve a külső nézet, ami a játékélmény rovására megy. És még mindig maradtak megválaszolatlan kérdések... Kis toldásnak megfelelt, de ez egy kihagyható DLC."
+ },
+ {
+  "date": "2025.02.16",
+  "title": "Resident Evil Village",
+  "difficulty": "Hardcore",
+  "note": "Feltűnően hasonló a hetedik részhez, de ez nem zavaró. A havas környezet teljesen új, és hangulatosabb is, mégis összességében az előző rész tetszett jobban. Bár megmaradtak a nyomasztó helyszínek, sok mesés elem van a játékban, amik nekem nem tettek jót, valamint néhány rész frusztrálóan nehéz lett. A minőség szokásos módon a toppon van, igazi AAA kategóriás játék amit megéri végigjátszani."
+ },
+ {
+  "date": "2025.02.01",
+  "title": "The Saboteur",
+  "difficulty": "Hard",
+  "note": "A Scarface ellentéte, ahogy az a játék fő célja hogy szemétkedjen a játékossal, addig a Saboteur ennek az ellentéte. Felüdülés volt egy jól játszható GTA klón végre, ami élvezhetően játszható, ez azzal jár hogy picit túl könnyű lett a játék, de így is azt mondom this is the way! 49 óráig lekötött a játék, a sztori nem hosszú de rengeteg plusz feladat van a szabad pályán és nem bírtam ellenállni hogy eltűnjenek az ikonok a térképről. Sajnos néhol látszik hogy elkellett volna még anyagi háttér a fejlesztéshez, de szerintem a lehetőségekből a maximumot kihozták, szuper játék."
+ },
+ {
+  "date": "2025.01.19",
+  "title": "Red Dead Redemption",
+  "difficulty": "Hardcore",
+  "note": "Bár elismerem mint játékot, nekem szenvedés volt a végigjátszás és sokáig elhúzódott. Valószínű a wester környezet sem vonz, de az sem tetszett hogy a játékmenet teljesen alá van rendelve a sztorimesélésnek. Játéknak ez nekem gyenge, habár ebben a játékban találkoztam az egyik legszimpatikusabb főhőssel. Az Undead Nightmare-t már be se bírtam fejezni, nem érdekel."
+ },
+ {
+  "date": "2025.01.13",
+  "title": "Dead Island Riptide Definitive Edition",
+  "note": "Minimális újdonság, inkább egy toldás a Dead Island-hez. Ami működik ott az itt is."
+ },
+ {
+  "date": "2025.01.05",
+  "title": "The Talos Principle Road to Gehena",
+  "difficulty": "Minden pálya",
+  "note": "Mesterien elkészített DLC, ami nagyobb élményt nyújtott mint az alapjáték. A sima feladványok nem nehezek, viszont a csillagok összeszedése, valamint az utolsó feloldható sziget feladta a leckét. Volt hogy játékon kívül, gondolataban sikerült megoldanom egy részt. A legjobb logikai játékok egyike!"
+ },
+ {
+  "date": "2024.12.28",
+  "title": "Dead Island Definitive Edition",
+  "note": "A Dying Light elődje, ennek megfelelően nagyon hasonlít is rá, csak itt még a parkour rész hiányzott. A Dead Island mintha letisztultabb lenne, itt nem volt gondom már a játék elején sem hogy kiigazodjak, szabad a játéktér, küldetéseket veszünk fel és megyünk zombikat kaszabolni. Kissé zavart hogy nem egy nagy összefüggő játéktér van, hanem több nagyobb zóna van külön-külön, de ami még rosszabb hogy elég hamar újraéledő zombikkal vannak kitömve ezek a zónák. Másik komly probléma hogy még mindig vannak benne csúnyább bugok, volt hogy ilyen miatt veszítettem el az összes fegyverem. Összességében kellemes játék volt, kissé elnyújtottnak hatott, de lehet co-opban jobban lehetne haladni a sztorival."
+ },
+ {
+  "date": "2024.12.05",
+  "title": "NecroVisioN",
+  "difficulty": "Hard",
+  "note": "Egy könnyed lövöldét kerestem, valamennyire meg is találtam ebben a játékban, ami a Painkiller motorjával lett megcsinálva. A grafika egész kellemes is, viszont a játék minden más részéről süt az olcsóság. Érdekes vegyítés hogy az első fele még inkább első világháborús, aztán átmegyünk a sárkányokkal, démonokkal, zombikkal teli világba, ami meg már unalomig lett húzva a végére."
+ },
+ {
+  "date": "2024.11.10",
+  "title": "Hitman Absolution",
+  "difficulty": "Hard",
+  "note": "Ez már a második nekikezdés volt, évekkel korábban egész sokáig eljutottam a játékban de nem tudott bent tartani. Az előző részekhez képest nagy változások vannak, és mondhatnám hogy kellett is a vérfrissítés a szériába, de mintha nagyon az újabb játékosoknak akartak volna kedvezni inkább. Sajnos nem hozza a játék a régi Hitman hangulatot, hiába van pár okos és új megoldás vagy megközelítés. Az egyik legfájóbb a zene, amit négy rész után rábíztak valaki másra, aki hozta a kötelező háttérbe szoruló semmilyen hangokat. Meg kell még említenem hogy főleg az utolsó küldetéseknél vannak iszonyatosan idegesítő részek amik eléggé lerontják a játékról alkotott képet."
+ },
+ {
+  "date": "2024.11.01",
+  "title": "Scarface",
+  "difficulty": "Főküldetések",
+  "note": "Életem eddigi legaljasabb, legszemetebb játéka. Igazából egy kellemes GTA klón lehetett volna: remek zenék, átlagos grafika, ötletes játékmenet(drogbeszerzés, terítés, bandaháborúk), elfogadható harcrendszer. De hiába ha az általam legnagyobb hibát követi el folyamatosan a játék, hogy kiszúr velünk minden lehetséges módon. Itt egy halálnak drasztikus következményei vannak, akár az hogy mindent elvesztel amit a legutolsó mentés óta elértél, a halál meg bárhonnan jöhet, bug miatt, vagy csak a játék kiírja hogy na most véged, és rádküld egy kikerülhetetlen golyózáprt, mert csak. Köszönöm a billentyűzetemnek hogy túlélte ezt a játékot, soha többet közelébe nem megyek és nem is ajánlom senkinek, ezért a pár pozitívumért nem éri meg az idegbaj."
+ },
+ {
+  "date": "2024.10.20",
+  "title": "LA Noire",
+  "note": "Általam játszott videojátékok közül eddig ez a játék volt a legjobban és legprofibban megírva, fantasztikus a történet és ahogy kibontakozik a játék közben, nagyszerű karakterek, lényegében egy nagy költségvetésű filmet kapunk. Másik kiemelkedő része a játéknak a korabeli Los Angeles lemodellezése, ami annyira hatásos hogy volt amikor csak sétálgattam a utcákon és nézegettem a kirakatokat, zseniális és aprólékos munka! És akkor elcsúszik az egész a játékmeneten, ami sehogy sem áll össze, nem működik, élvezhetetlen segítség nélkül, itt megengedettnek tartom a helyes válaszok megnézését. Bár egyedi lett a kihallgatási módszer, de a hazugság és a kétségbe vonás közti kis különbség sokszor rossz választást szül, amit a játék nem enged utána kijavítani. A játék többi része is hamar ismétlődővé válik, nem annyira beleélhető már a sokadik futva kergetőzés."
+ },
+ {
+  "date": "2024.10.13",
+  "title": "Far Cry New Dawn",
+  "difficulty": "Hard",
+  "note": "Félve kezdtem el ezt a részt mivel az ötödik már nagyon fáradtnak hatott számomra, és kellemeset csalódtam. Valamiért jóval élvezhetőbb volt ez a \"kis\" spin off játék, teljesen elkapott a függés hogy mindent elvégezzek amit csak lehet. Mellé fantasztikus a grafika, a környezet nagyon egyforma de legalább kidolgozott, gunplay is szuper, mégis egy kicsit azért érződik hogy ez \"csak\" egy időkitöltő plusz-játék, minden újdonsággal jobb lett az ötödik résztől de ezekből azért nincs olyan sok és nem is drasztikusak. Nekem ez a javított Far Cry V."
+ },
+ {
+  "date": "2024.09.28",
+  "title": "Total Overdose",
+  "note": "Megjelenéskor elfogadható játék volt, de már akkor is alsóbb kategóriába tartozott. Ennyi idő után ezek még jobban kijöttek, erős temus GTA érzete van. Mivel lélekkel csinálták a játékot így jár a közepes értékelés, de egyébként ebben a játékban nincs több pár óra hülyéskedésnél, a mellékküldetéseket már végig se csináltam."
+ },
+ {
+  "date": "2024.09.24",
+  "title": "Sigil 2",
+  "difficulty": "Ultra-Violence",
+  "note": "Mivel nem került be a Sigil első része mellé a Doom + Doom 2-ben, ezért a modlistáról kellett játszanom a második részt. Jó hogy elkészült a folytatás, viszont számomra elmaradt az eredetitől. Már alapból nehezebb, és ez elég is lett volna, de még pluszban bent szokott lenni egy, vagy több Cyberdemon is, amik már néha idegesítőek, és sokszor nem kiiktathatóak, mint az első részben a legtöbb helyen. Az első részhez hasonló szellemiség viszont itt is jelen van, ez elviszi a játékot."
+ },
+ {
+  "date": "2024.09.21",
+  "title": "Doom + Doom 2",
+  "difficulty": "Ultra-Violence",
+  "note": "Ez hosszú Doom maraton volt, mivel az összes fejezeten végigmentem ami benne van ebben az újrakiadásban. A két eredeti kampány kopottasnak tűnik így visszagondolva, de ez törvényszerű hiszen ezek készültek el először az akkor még új motorra. Az első Doom kampánya jobban tetszett mint a második(mínusz a későbbi negyedik epizód), a Mars és pokol helyszínek nagyon illenek a játékhoz, a második rész városi pályái már feleslegesen túlbonyolítottnak hatnak, ahogy némelyik pálya furcsa ötletei is. Az jó ha próbálkoznak új dolgokkal, de ezeknek jóknak is kellene lenniük. A második részben viszont lényegesen jobb a gameplay a többféle ellenfél, és főleg a duplacsövű puska miatt. A Master Levels-ben van néhány kiemelkedő pálya, viszont összességében olyan lett amilyennek várni lehet egy innen-onnan szedett, több embertől származó Doom pályákból álló csomagot. Sokkal jobban egyben van a Evilution és a Plutonia, tisztességesen elkészített teljes kampányok amiktől féltem ugyan de teljesen rendben voltak, utóbbi kicsit ízesebb is. A No Rest for the Living bár rövid, de a legjobb új fejezet volt, a mai szellemben elkészített pályákon jó volt irtani is, és a titkos részeket is nagyon jól helyezték el. Kicsit ehhez hasonló az első Sigil is, nagyszerűen felépített pályák voltak ebben is. Végül kaptunk egy teljesen új epizódot(igazából kettőt egyben) Legacy of Rust néven, amiben láthatóan sokat beleadtak, nem vagyok képben hol tartanak a Doom modok de itt néha néztem nagyokat miket alkottak: hatalmasak a pályák, amin rengeteg ellenfél van, új fegyverek és az eredeti Doom-ból kivágott ellenfelek, ezek teljesen új élményt adnak, és elég egyedivé teszik ezt az új fejezetet, rajongóknak kötelező!"
+ },
+ {
+  "date": "2024.09.21",
+  "title": "Viewfinder",
+  "note": "Nagyon jó, új ötleten alapuló logikai játék ami látványos és jól kidolgozott, már ameddig tart a játék. Az viszont nem hosszú idő, ez a legnagyobb gond a játékkal, vagy inkább kihagyott ziccer. Jó lett volna ha egy nagy kiadó beáll a fejlesztők mögé és akkor egy Portal 2 szintű játék is születhetett volna. Drukkolok egy második részért amit már kellően ki tudnak dolgozni és sok tartalommal megtölteni."
+ },
+ {
+  "date": "2024.08.04",
+  "title": "Serious Sam Revolution",
+  "difficulty": "Hard",
+  "note": "Az eredeti első két epizód van ebben a kiadásban szinte változtatások nélkül, plusz nyolc új pálya, amik bonyolultabbak az eredetieknél, de pont emiatt el is ütnek tőlük. Nem emlékeztem rá hogy a First Encounter ennyire szemét módon nehéz, a Second Encounter jóval kiegyensúlyozottabb és változatosabb. Talán a Hard nehézség nem áll annyira jól ennek a játéknak. Mivel nem sokat tesz hozzá ez a \"frissítés\", maradok a HD kiadásnál."
+ },
+ {
+  "date": "2024.07.25",
+  "title": "The Forest",
+  "note": "Co-op végigjátszás. Egy szabványos építgetős-túlélős horror játéknak tűnik, ami mögött egy érdekes és ötletes sztori van, de ez nem tűnt fel elsőre, így jócskán elvett az élményből a gyors végigszaladás a játékon. A legjobb mód az lehet ha elsőnek egyedül, és semmit nem tudva a játékról ugrik neki valaki, majd utána a haverokkal."
+ },
+ {
+  "date": "2024.07.12",
+  "title": "C&C Generals Zero Hour",
+  "difficulty": "Hard",
+  "note": "Érezhetően ötletesebb pályák és újdonságokat tartalmaz, de ez általános kiegészítő-lemezeknél, mivel már van egy biztos, stabil alap, így van energia a kreativitásra. Viszont bitang nehéz lett itt a kampány, érdekes módon most már easy, medium és hard a nehézségi fokozat, így a legnehezebbet választottam, de azt hiszem soha többet nem fogom végigjátszani így ezt a kampányt. Volt hogy videót kellett néznem a pályához, mert eléggé ki volt centizve a megoldás, ezt pedig nagyon nem szeretem egy stratégiai játékban, idegesítő szivatás ezerrel, unfair ai. Egyébként ötletesek a pályák és az új egységek."
+ },
+ {
+  "date": "2024.07.03",
+  "title": "C&C Generals",
+  "difficulty": "Hard",
+  "note": "Újrajátszás, a játékról annyit hogy egy csodának számít hogy élvezhető lett annak ellenére hogy porba tipor szinte minden hagyományt ami a szériához köthető. Itt a hard a középső szint volt a normal és brutal mellett, nem volt különösen nehéz, bánom hogy nem a legnehezebb módot választottam."
+ },
+ {
+  "date": "2024.06.09",
+  "title": "Chicken Police",
+  "note": "A Checkpoint podcastben keltette fel az érdeklődésemet, látásból már ismertem a játékot de nem tetszettek az emberi testre rakott állatfejek, most ezen túllendültem. A hangulat a játék fő erőssége, a játékmenet nagyon egyszerű, szinte csak szövegből áll, ami már sokszor ismétlődő, de legalább nem túl hosszú. A cselekmény nem valami bonyolult, se eredeti, hamar rá lehet jönni mire megy ki a JÁTÉK. A zene kellemes."
+ },
+ {
+  "date": "2024.06.05.",
+  "title": "Halo The Master Chief Collection Halo 3",
+  "difficulty": "Heroic",
+  "note": "Három rész után kijelenthetem hogy a Halo játékok nem igazán nekem valóak, amiért dicsérik azok számomra pont idegesítőek. Nem jó játékélmény mikor pumpálni kell a gyengén sebző fegyverekből a golyót az ellenségre, több tárat is hogy kimúljon. Nem jó járművet vezetni úgy, hogy egyfolytában felborul. Történet nekem teljesen érdektelen, de követhetetlen is. És azt még megjegyezném hogy kevés az újdonság a második részhez képest."
+ },
+ {
+  "date": "2024.06.02.",
+  "title": "The Suffering Ties That Bind",
+  "difficulty": "Hard",
+  "note": "Egy hosszú expansion pack benyomása van, kisebb megkérdőjelezhető változtatások vannak csak. És jóval nehezebb, néha kiakasztó. Nem volt annyira érdekes, de friss mint az első játék."
+ },
+ {
+  "date": "2024.05.25.",
+  "title": "The Suffering",
+  "difficulty": "Hard",
+  "note": "Megjelenés utáni években próbáltam már a játékot, akkor nem tudott lekötni, talán a játékmenet sem tetszett, mert nem csak agyatlan hentelésből áll, tudni kell mit csinálunk. A horror atmoszféra nagyon jó lenne, csak az elnagyolt grafika miatt nem tudtam beleélni magam, szerencsére nincs elnyújtva a játék így nem válik unalmassá. "
+ },
+ {
+  "date": "2024.05.25.",
+  "title": "A Way Out",
+  "difficulty": "Vincent él",
+  "note": "Sajnos már ismertem az It Takes Two-t, és itt még nem működött olyan jól az összehangolt játék, kevés az interakció és nagyon kötött az egész, ettől függetlenül nagyon kidolgozott és igényes a Way Out is. A vége miatt majdnem kevesebbre értékeltem, de kategóriájában így is az egyik csúcs volt, az It Takes Two-ig."
+ },
+ {
+  "date": "2024.05.18.",
+  "title": "Serious Sam 2",
+  "difficulty": "Hard",
+  "note": "Sokadik végigjátszás, talán a kedvencem a szériából. Az új patchnek köszönhetően kicsit feljebb állítottam a létszámot. Az újonnan bekerült sprint eléggé megkönnyíti a játékot, nem volt nagy kihívás, legközelebb még nehezítek a rátákon."
+ },
+ {
+  "date": "2024.05.17.",
+  "title": "Die Hard Nakatomi Plaza",
+  "difficulty": "Hard",
+  "note": "Régen haveromnál láttam ezt a film alapján készült FPS-t, akkor még nem látszódott hogy mennyire B kategóriás, lerí róla az olcsóság, de legalább jól játszható rövid játék."
+ },
+ {
+  "date": "2024.05.07.",
+  "title": "Serious Sam Siberian Mayhem",
+  "difficulty": "Hard",
+  "note": "Modderek által összetákolt önálló kiegészítő a negyedik részhez, és pont olyan is. A modern Doom részek után fájóan nincs egyensúlyozva a gunplay, de közben nehézre is akarták belőni a játékot, és kaptunk egy totál unfair nehézséget. Amikor valami bután nehéz. Legalább a látvány szép és a zene is hozza a színvonalat, viszont elég rövid."
+ },
+ {
+  "date": "2024.05.01.",
+  "title": "Nosferatu The Wrath of Malachi",
+  "difficulty": "Normal",
+  "note": "Majdnem abbahagytam már az elején mivel a játék nem sokat segít mit is kellene kezdeni a játéktéren. A kezdeti nehézségek után egy nagyszerű játék bontakozott ki, egy vámpír gróf birtokán kell császkálnunk és kiszabadítani fogva tartott rokonainkat, méghozzá időkorlátosan. Nagy para a sötét folyosókon vagy a temetőben keresni az utat miközben bármikor ránk törhet valami förtelem. Csiszolatlan gyémánt, rövid, de hatásos horror játék!"
+ },
+ {
+  "date": "2024.04.28.",
+  "title": "Indiana Jones and the Emperors Tomb",
+  "difficulty": "Hard",
+  "note": "Sajnos az irányítás nem az igazi, de ettől függetlenül is egy kifejezetten jó játék ami hozza a filmek hangulatát. Néha nagyon idegesítő vagy a mozgás, vagy a harc, de minden más szuper."
+ },
+ {
+  "date": "2024.04.22.",
+  "title": "Inbento",
+  "note": "Kikapcsolódásnak remek logikai játék, ha nap közben fizikailag lefáradtam akkor ezzel szellemileg is sikerül. Pár feladvánnyal megszenvedtem, de semmi vészes, igényes kis játék!"
+ },
+ {
+  "date": "2024.04.22.",
+  "title": "Halo The Master Chief Collection Halo 2",
+  "difficulty": "Heroic",
+  "note": "Lényegesen jobb mint az első, végre találni élvezetet is a játékban, minden téren pozitív a változás. Különösebben nem tudott meghatni de ez a fajta sci-fi amúgy sem igazán a zsánerem."
+ },
+ {
+  "date": "2024.04.17.",
+  "title": "Freedom Fighters",
+  "difficulty": "Freedom Fighter",
+  "note": "Nagyon jót játszottam ezzel a játékkal, megjelenéskor már végigjátszottam, de nem nagyon emlékeztem rá. Nem is véletlen, mivel eléggé rövid és gyorsan összedobott játéknak tűnik, a Hitman széria volt a stúdió főfogása. Mégis sikerült egy nagyon élvezhető játékot összedobni, amiből még kérek, kérnék, de hiába, folytatás azóta sincs. "
+ },
+ {
+  "date": "2024.04.10.",
+  "title": "Psychonauts",
+  "difficulty": "100%",
+  "note": "Zseniális játék, így másodjára, hogy nem vakon játszottam még sokkal jobb volt, jobban tudtam figyelni a részletekre, és nem nyugodtam amíg mindent össze nem gyűjtöttem. "
+ },
+ {
+  "date": "2024.03.28.",
+  "title": "Halo The Master Chief Collection Halo CE",
+  "difficulty": "Heroic",
+  "note": "Nagy elmaradásom a Halo széria, és nem ment egyszerűen az első rész végigjátszása, elöregedett már ez a játék. Bár grafikailag teljesen fel van újítva, de a pályaszerkezet maradt, és a játék kétharmada kínkeserves, végtelenül unalmas ismétlődő helszínek és harcok. Nem tudtam kedvelni, és a felénél majdnem abba is hagytam, csak megnéztem hol tartok és akkor már rávettem magam a folytatásra. Az utolsó harmadánál már a gunplay nem volt rossz, de erre akkor sem tudok közepest adni."
+ },
+ {
+  "date": "2024.03.13.",
+  "title": "Orcs Must Die 3",
+  "note": "Teljesen jó folytatása ez a szériának, a rövidtávú függést kiváltja ahogy az előző részei, csak modernebb köntösben."
+ },
+ {
+  "date": "2024.02.19.",
+  "title": "Hard Reset Extended",
+  "difficulty": "Hard",
+  "note": "Időnként frusztrálóan nehéz a játék hiányosságai miatt, ez lényegesen visszafogja a játékélményt. Szép cyberpunk világ, darálás ezerrel, de egy kis polírozás kellett volna a gunplayen."
+ },
+ {
+  "date": "2024.02.16.",
+  "title": "Mad Max (2015)",
+  "difficulty": "Map 100%",
+  "note": "Nagy térkép tele tennivalókkal, bele is telt 53 órába mindent megcsinálni. Elején kicsit frusztráló a játék, de okozott egyfajta függőséget és előjött a \"csak még egy küldetést\" effektus."
+ },
+ {
+  "date": "2024.02.03.",
+  "title": "Cuphead The Delicious Last Course",
+  "difficulty": "Regular",
+  "note": "Nehéz. Sok munka van benne, de nem annyira karakteresek az új pályák mint az eredetiek."
+ },
+ {
+  "date": "2024.01.29.",
+  "title": "Cuphead",
+  "difficulty": "Regular",
+  "note": "Pár pálya expert szinten is ment most, de semmi különleges, hozta a szintet, még mindig zseniális játék."
+ },
+ {
+  "date": "2024.01.28.",
+  "title": "Chrome Specforces",
+  "difficulty": "Hard",
+  "note": "A Chrome önállóvá váló kiegészítőlemeze ez a rövid játékideje alapján. Van néhány változtatás amitől sokat vártam, elvégre ráfért az alapjátékra a csiszolás hogy tényleg élvezetes legyen, de csalódnom kellett, a változtatások semmit nem adtak hozzá a játékélményhez, vagy csak elvettek belőle. Összességében egy toldás az első Chrome játékhoz, a klasszikus expansion pack érzést adja."
+ },
+ {
+  "date": "2024.01.22.",
+  "title": "Chrome",
+  "difficulty": "Hard",
+  "note": "Elő Far Cry, bár akkor még a Halo-hoz hasonlítottam. Sajnos nem volt eléggé kiforrott, egy év múlva már sokkal jobb játékok jelentek meg amik ezen a vonalon haladtak, a Chrome megmaradt a \"ha ló nincs\" játéknak, majd feledésbe merült. Emlékeim szerint kétszer játszottam végig még valamikor a megjelenés utáni években, ma már nem volt annyira szórakoztató mint az emlékeimben, nem volt annyira nehéz de rá kell érezni a játékra."
+ },
+ {
+  "date": "2024.01.15.",
+  "title": "Chaser",
+  "difficulty": "Hard",
+  "note": "Összességében kellemes játék, megvannak a gyengeségei és az erősségei. Utóbbihoz sorolnám a grafikát, amire néha rá is csodálkoztam korához képest mennyire pazarul néznek ki a pályák. Kiemelném még a jó gunplayt, klasszikus játékelemeket, hangulatos helyszínek. Gyengeségei közé tartozik a sztori rész a rém béna dialógusokkal és szinkronhangokkal, amin még könnyen túlteszem magam, viszont a pályadizájn az én idegeimet is próbára tette többször a kampány során, sokszor vannak túlbonyolítva a szintek, rengeteg ajtó amiből egy vagy egy sem nyílik, egy pályarészlet ismétlődik sok-sok-sokszor egymás után, esetleg el van forgatva 90 vagy 45 fokkal, emiatt túl hosszúnak is tűnik a játék."
+ },
+ {
+  "date": "2024.01.06.",
+  "title": "Blood 2 The Chosen Nightmare Levels",
+  "difficulty": "Suicide(Hard)",
+  "note": "Igyekezet volt, de nem lett különb az alapjátéknál."
+ },
+ {
+  "date": "2024.01.04.",
+  "title": "Blood 2 The Chosen",
+  "difficulty": "Suicide(Hard)",
+  "note": "Félkész játék. Ezt régen biztos normal szinten játszottam, mert ennyit szenvedni a nehéz móddal többet sem fogok. Szeretem, mert hozza a korabeli játékok érzését, és kellően elborult, de a játékmenet szörnyű, átgondolatlan, idegölő. Az RNG túl van használva, össze-vissza sebeznek a lövedékek. Plusz mai gépeken meg kell szenvedni hogy normálisan játszható legyen."
+ },
+ {
+  "date": "2023.12.29.",
+  "title": "Mafia Definitive Edition",
+  "difficulty": "Hard",
+  "note": "Jó volt egynek, csak rettenetesen rövid, és azt sem éreztem hogy az első Mafia-val játszok, annyira más. Rengeteg munka is van benne egyébként, de nem volt rám nagy hatással. Az a fránya autóverseny itt is kiakasztó."
+ },
+ {
+  "date": "2023.12.29.",
+  "title": "The Talos Principle",
+  "note": "Mintha a Serious Sam 3 pályáin lennénk ugyanúgy, de logikai feladatokat kell megoldani. A Portal-hoz képest vannak benne jóval nehezebb fejtörők, nagyon sok időt el lehet tölteni a játékban egy nehezebb résznél, de nem bántam, a siker kárpótolt. A plusz csillagokat nem sikerült mindenhol megszerezni, pont elég volt minden helyet megcsinálni."
+ },
+ {
+  "date": "2023.12.20.",
+  "title": "Soldier of Fortune Payback",
+  "difficulty": "Hard",
+  "note": "Semmi köze az eredeti két részhez, egy B kategóriás játék ez amire ráaggattak egy nagy multó nevet. Legalább nagy gond sem volt a játékkal, amolyan semmilyen CoD klón."
+ },
+ {
+  "date": "2023.12.17.",
+  "title": "Soldier of Fortune 2",
+  "difficulty": "Hard",
+  "note": "5 éve már elkezdtem játszani, de már a játék elején feladtam anynira nehéz volt ezen a fokozaton. Nyugodtabban, taktikusabban kellett nekiállni, és így már rá lehet érezni a játékra."
+ },
+ {
+  "date": "2023.12.10.",
+  "title": "Soldier of Fortune",
+  "difficulty": "Hard",
+  "note": "Ezen a nehézségen limitált a mentések száma, és ettől volt ez jóval nehezebb játék mint amire számítottam, viszont még így is egy remek klasszikus FPS. Vannak nagyon unfair részek amiket valahogy túl kell élni, mint amikor sűrű ködből lő a mesterlövész, és vakon kell próbálkozni eltalálni, ezek elég frusztrálóak."
+ },
+ {
+  "date": "2023.11.27.",
+  "title": "Batman Arkham Knight",
+  "difficulty": "Map 100%",
+  "note": "Iszonyatosan minőségi játék, már az elején látszott, pedig nem rántott be rögtön csak sok játékóra után. Az is közrejátszott hogy nagyon kaotikus elsőre, az irányítást és a lehetőségeket idő megjegyezni."
+ },
+ {
+  "date": "2023.11.15.",
+  "title": "Outlast 2",
+  "note": "Összességében az első részhez hasonló, a helyszín most gyengébb, de az iskolás részek feldobják a játékot, viszont az előző rész félelmetesebb az emlékeim szerint."
+ },
+ {
+  "date": "2023.11.06.",
+  "title": "Just Cause",
+  "note": "C kategória. Szörnyű össze-visszaság az egész, hogy a fenébe lett ebből franchise?  Az orrunk előtt spawnolnak be végtelenítve az ellenfelek, ez mindent elmond. Végigszenvedtem, de ez egy borzalom, egy GTA klónra számítottam, mint a Total Overdose, de ennél még a GTA első része is sokkal szórakoztatóbb."
+ },
+ {
+  "date": "2023.11.04.",
+  "title": "Portal 2",
+  "note": "Az egyik legjobb játék ami valaha készült, sajnos minden végigjátszás után egyre gyengül a hatása, szinte kívülről ismerem a játékot."
+ },
+ {
+  "date": "2023.11.04.",
+  "title": "Call of Duty WWII",
+  "difficulty": "Hard"
+ },
+ {
+  "date": "2023.10.28.",
+  "title": "Fahrenheit Indigo Prophecy Remastered"
+ },
+ {
+  "date": "2023.10.23.",
+  "title": "Portal RTX"
+ },
+ {
+  "date": "2023.10.22.",
+  "title": "Call of Duty Infinite Warfare",
+  "difficulty": "Hardened"
+ },
+ {
+  "date": "2023.09.30.",
+  "title": "Call of Duty Black Ops 3",
+  "difficulty": "Hardened"
+ },
+ {
+  "date": "2023.09.17.",
+  "title": "Call of Duty Advanced Warfare",
+  "difficulty": "Hardened"
+ },
+ {
+  "date": "2023.09.16.",
+  "title": "C&C Tiberium Wars Kanes Wrath"
+ },
+ {
+  "date": "2023.09.16.",
+  "title": "C&C Tiberium Wars"
+ },
+ {
+  "date": "2023.09.03.",
+  "title": "Call of Duty Ghost",
+  "difficulty": "Hardened"
+ },
+ {
+  "date": "2023.08.16.",
+  "title": "Call of Duty Black Ops 2",
+  "difficulty": "Hardened"
+ },
+ {
+  "date": "2023.08.13.",
+  "title": "Call of Duty Modern Warfare 3",
+  "difficulty": "Hardened"
+ },
+ {
+  "date": "2023.08.11.",
+  "title": "Call of Duty Black Ops",
+  "difficulty": "Hardened"
+ },
+ {
+  "date": "2023.08.06.",
+  "title": "Call of Duty Modern Warfare 2",
+  "difficulty": "Hardened"
+ },
+ {
+  "date": "2023.07.29.",
+  "title": "Call of Duty World At War",
+  "difficulty": "Hard"
+ },
+ {
+  "date": "2023.07.16.",
+  "title": "Call of Duty Modern Warfare",
+  "difficulty": "Hardened",
+  "note": "Legendás játék, de nem nekem. Nem tudott rám különös hatással lenni, csak egy lövölde ami nagyon kidolgozottnak tűnik, azon az egy útvonalon amn végig kell haladnunk, de persze ez csak ámítás, végig egy csőben vagyunk és lelőjjük akit kell(a gonosz terroristákat). Pár jobb pillanat akad, de semmi különleges."
+ },
+ {
+  "date": "2023.07.09.",
+  "title": "Call of Duty 2",
+  "difficulty": "Hardened",
+  "note": "Megjelenéskor játszottam végig utóljára ezt a részt, most meglepett mennyire élvezetes a kampánya, ennek kellett volna az első résznek lennie. Nagy szükség volt a gránátjelzőre, és az életerő eltűnése is jót tett az élménynek, itt volt jól eltalálva a játékmenet."
+ },
+ {
+  "date": "2023.07.08.",
+  "title": "Call of Duty United Offensive",
+  "difficulty": "Hardened",
+  "note": "Az első rész kiegészítője jól sikerült, így hogy volt egy megfelelő alap már koncentrálhattak a kidolgozottabb küldetésekre."
+ },
+ {
+  "date": "2023.07.03.",
+  "title": "Call of Duty",
+  "difficulty": "Hardened",
+  "note": "Az Allied Assault után kevésnek hatott, minden téren fejlődött de csak keveset, még valósághűbb lett és nem olyan a játék mintha Quake-t játszanánk. Mostanra már szét lett használva ez a setting, így még közhelyesebbnek tűnik."
+ },
+ {
+  "date": "2023.05.14.",
+  "title": "Orcs Must Die 2"
+ },
+ {
+  "date": "2023.05.07.",
+  "title": "Metro Last Light Redux"
+ },
+ {
+  "date": "2023.04.25.",
+  "title": "Orcs Must Die"
+ },
+ {
+  "date": "2023.04.22.",
+  "title": "Terminator Resistance Annihilation Line"
+ },
+ {
+  "date": "2023.04.16.",
+  "title": "Dracula 5 The Blood Legacy"
+ },
+ {
+  "date": "2023.04.15.",
+  "title": "Dracula 4 Shadow of the Dragon"
+ },
+ {
+  "date": "2023.04.15.",
+  "title": "Terminator Resistance"
+ },
+ {
+  "date": "2023.04.10.",
+  "title": "Contrack J.A.C.K."
+ },
+ {
+  "date": "2023.04.07.",
+  "title": "No One Lives Forever 2"
+ },
+ {
+  "date": "2023.03.26.",
+  "title": "No One Lives Forever"
+ },
+ {
+  "date": "2023.03.10.",
+  "title": "Thief 2 The Metal Age"
+ },
+ {
+  "date": "2023.02.19.",
+  "title": "Thief Gold"
+ },
+ {
+  "date": "2023.02.11.",
+  "title": "Prince of Persia The Sands of Time"
+ },
+ {
+  "date": "2023.01.31.",
+  "title": "The Legend of Zelda Breath of the Wild"
+ },
+ {
+  "date": "2023.01.08.",
+  "title": "Counter Strike Condition Zero Deleted Scenes"
+ },
+ {
+  "date": "2022.12.28.",
+  "title": "Bioshock 2 Minervas Den Remastered",
+  "difficulty": "Hard"
+ },
+ {
+  "date": "2022.12.23.",
+  "title": "Bioshock 2 Remastered",
+  "difficulty": "Hard"
+ },
+ {
+  "date": "2022.12.16.",
+  "title": "Bioshock Remastered",
+  "difficulty": "Hard"
+ },
+ {
+  "date": "2022.11.27.",
+  "title": "Hellblade Senuas Sacrifice"
+ },
+ {
+  "date": "2022.11.19.",
+  "title": "Tony Hawks Pro Skater HD"
+ },
+ {
+  "date": "2022.11.18.",
+  "title": "Watch Dogs 2"
+ },
+ {
+  "date": "2022.11.04.",
+  "title": "Resident Evil 3 (2020)"
+ },
+ {
+  "date": "2022.10.31.",
+  "title": "Resident Evil 2 (2019)"
+ },
+ {
+  "date": "2022.10.24.",
+  "title": "Resident Evil HD"
+ },
+ {
+  "date": "2022.10.16.",
+  "title": "Outlast Whistleblower"
+ },
+ {
+  "date": "2022.10.15.",
+  "title": "Fallout New Vegas Ultimate"
+ },
+ {
+  "date": "2022.10.07.",
+  "title": "The Simpsons Hit & Run",
+  "difficulty": "100%"
+ },
+ {
+  "date": "2022.09.10.",
+  "title": "Outlast",
+  "difficulty": "Hard"
+ },
+ {
+  "date": "2022.09.04.",
+  "title": "Cuphead The Delicious Last Course",
+  "difficulty": "Regular"
+ },
+ {
+  "date": "2022.09.04.",
+  "title": "C&C Red Alert 3 Uprising"
+ },
+ {
+  "date": "2022.08.28.",
+  "title": "C&C Red Alert 3"
+ },
+ {
+  "date": "2022.08.20.",
+  "title": "Ford Racing 2",
+  "difficulty": "All Race"
+ },
+ {
+  "date": "2022.08.14.",
+  "title": "Luxor Evolved"
+ },
+ {
+  "date": "2022.08.10.",
+  "title": "What Remains of Edith Finch"
+ },
+ {
+  "date": "2022.08.06.",
+  "title": "Stray"
+ },
+ {
+  "date": "2022.08.02.",
+  "title": "C&C Red Alert 2 Yuris Revenge",
+  "difficulty": "Brutal"
+ },
+ {
+  "date": "2022.07.30.",
+  "title": "C&C Red Alert 2",
+  "difficulty": "Brutal"
+ },
+ {
+  "date": "2022.07.16.",
+  "title": "Borderlands 3"
+ },
+ {
+  "date": "2022.06.12.",
+  "title": "Splinter Cell Chaos Theory"
+ },
+ {
+  "date": "2022.06.04.",
+  "title": "Borderlands Enhanced"
+ },
+ {
+  "date": "2022.05.21.",
+  "title": "Splinter Cell Pandora Tomorrow"
+ },
+ {
+  "date": "2022.05.18.",
+  "title": "Splinter Cell"
+ },
+ {
+  "date": "2022.05.14.",
+  "title": "Duke Nukem 3D 20th Anniversary World Tour",
+  "difficulty": "Come Get Some"
+ },
+ {
+  "date": "2022.05.11.",
+  "title": "Doom 3 Resurrection of Evil",
+  "difficulty": "Veteran"
+ },
+ {
+  "date": "2022.04.30.",
+  "title": "Doom 3",
+  "difficulty": "Veteran"
+ },
+ {
+  "date": "2022.04.10.",
+  "title": "Crysis Remastered"
+ },
+ {
+  "date": "2022.04.02.",
+  "title": "Batman Arkham Asylum"
+ },
+ {
+  "date": "2022.04.01.",
+  "title": "Doom 64"
+ },
+ {
+  "date": "2022.03.26.",
+  "title": "Far Cry 5"
+ },
+ {
+  "date": "2022.03.15.",
+  "title": "Vampyr"
+ },
+ {
+  "date": "2022.02.16.",
+  "title": "Ori and the Will of the Wisps"
+ },
+ {
+  "date": "2022.02.13.",
+  "title": "Need for Speed Most Wanted",
+  "difficulty": "100%"
+ },
+ {
+  "date": "2022.02.03.",
+  "title": "Ori and the Blind Forest Definitive Edition"
+ },
+ {
+  "date": "2022.01.22.",
+  "title": "Doom Eternal The Ancient Gods Part 2",
+  "difficulty": "Ultra Violence"
+ },
+ {
+  "date": "2022.01.16.",
+  "title": "Doom Eternal The Ancient Gods Part 1",
+  "difficulty": "Ultra Violence"
+ },
+ {
+  "date": "2022.01.14.",
+  "title": "Doom Eternal",
+  "difficulty": "Ultra Violence"
+ },
+ {
+  "date": "2022.01.08.",
+  "title": "Chernobylite"
+ },
+ {
+  "date": "2021.12.30.",
+  "title": "Serious Sam 4",
+  "difficulty": "Hard"
+ },
+ {
+  "date": "2021.12.26.",
+  "title": "Cuphead",
+  "difficulty": "Regular"
+ },
+ {
+  "date": "2021.12.22.",
+  "title": "Need for Speed Underground 2",
+  "difficulty": "All Hard 100%"
+ },
+ {
+  "date": "2021.12.12.",
+  "title": "Need for Speed Underground",
+  "difficulty": "All Hard"
+ },
+ {
+  "date": "2021.10.09.",
+  "title": "Hitman Contracts",
+  "difficulty": "Expert + Silent Assassin"
+ },
+ {
+  "date": "2021.10.09.",
+  "title": "Hitman 2 Silent Assassin",
+  "difficulty": "Normal + Silent Assassin"
+ },
+ {
+  "date": "2021.10.07.",
+  "title": "Hitman Codename 47"
+ },
+ {
+  "date": "2021.10.02.",
+  "title": "Quake"
+ },
+ {
+  "date": "2021.09.18.",
+  "title": "Dishonored"
+ },
+ {
+  "date": "2021.09.02.",
+  "title": "Bioshock Infinite Burial At Sea Part II"
+ },
+ {
+  "date": "2021.08.27.",
+  "title": "Bioshock Infinite Burial At Sea Part I"
+ },
+ {
+  "date": "2021.08.26.",
+  "title": "Bioshock Infinite"
+ },
+ {
+  "date": "2021.08.13.",
+  "title": "Shadow Ops Red Mercury"
+ },
+ {
+  "date": "2021.08.04.",
+  "title": "Far Cry",
+  "difficulty": "Hard"
+ },
+ {
+  "date": "2021.07.27.",
+  "title": "Wolfenstein 2 The New Colossus",
+  "difficulty": "Call me Terror-Billy!"
+ },
+ {
+  "date": "2021.07.11.",
+  "title": "Wolfenstein The Old Blood",
+  "difficulty": "\"I AM DEATH INCARNATE!\""
+ },
+ {
+  "date": "2021.07.10.",
+  "title": "Wolfenstein The New Order"
+ },
+ {
+  "date": "2021.07.03.",
+  "title": "Beyond Good and Evil"
+ },
+ {
+  "date": "2021.06.19.",
+  "title": "The Room 2"
+ },
+ {
+  "date": "2021.06.12.",
+  "title": "Fallout 3 GOTY"
+ },
+ {
+  "date": "2021.05.23.",
+  "title": "Dusk"
+ },
+ {
+  "date": "2021.05.12.",
+  "title": "Alien Isolation"
+ },
+ {
+  "date": "2021.05.10.",
+  "title": "Dracula Love Kills"
+ },
+ {
+  "date": "2021.05.01.",
+  "title": "Dracula Origin"
+ },
+ {
+  "date": "2021.04.23.",
+  "title": "Midnight Club 2"
+ },
+ {
+  "date": "2021.04.11.",
+  "title": "Serious Sam 2",
+  "difficulty": "Hard"
+ },
+ {
+  "date": "2021.04.05.",
+  "title": "Dracula 3 The Path of the Dragon"
+ },
+ {
+  "date": "2021.03.27.",
+  "title": "Dracula The Last Sanctuary"
+ },
+ {
+  "date": "2021.03.21.",
+  "title": "Need for Speed The Run"
+ },
+ {
+  "date": "2021.03.21.",
+  "title": "Dracula Resurrection"
+ },
+ {
+  "date": "2021.03.14.",
+  "title": "Shift 2 Unleashed"
+ },
+ {
+  "date": "2021.02.20.",
+  "title": "Sleeping Dogs Definitive Edition"
+ },
+ {
+  "date": "2021.02.03.",
+  "title": "Need for Speed Hot Pusrsuit (2010)"
+ },
+ {
+  "date": "2021.01.18.",
+  "title": "Portal Stories Mel"
+ },
+ {
+  "date": "2021.01.17.",
+  "title": "Need for Speed Shift"
+ },
+ {
+  "date": "2021.01.14.",
+  "title": "Portal 2"
+ },
+ {
+  "date": "2021.01.10.",
+  "title": "Portal"
+ },
+ {
+  "date": "2021.01.09.",
+  "title": "Black Mesa"
+ },
+ {
+  "date": "2020.12.24.",
+  "title": "Need for Speed Undercover"
+ },
+ {
+  "date": "2020.12.18.",
+  "title": "Need for Speed ProStreet"
+ },
+ {
+  "date": "2020.11.22.",
+  "title": "Need for Speed Carbon"
+ },
+ {
+  "date": "2020.11.21.",
+  "title": "Need for Speed Most Wanted"
+ },
+ {
+  "date": "2020.11.13.",
+  "title": "Need for Speed Underground 2"
+ },
+ {
+  "date": "2020.11.01.",
+  "title": "Need for Speed Underground"
+ },
+ {
+  "date": "2020.10.25.",
+  "title": "Neighbours back from Hell"
+ },
+ {
+  "date": "2020.10.24.",
+  "title": "Clive Barkers Undying"
+ },
+ {
+  "date": "2020.10.09.",
+  "title": "XIII",
+  "difficulty": "Hard"
+ },
+ {
+  "date": "2020.08.23.",
+  "title": "Borderlands The Pre Sequel Claptastic Voyage"
+ },
+ {
+  "date": "2020.08.21.",
+  "title": "Borderlands The Pre Sequel"
+ },
+ {
+  "date": "2020.08.11.",
+  "title": "Brutal Legend"
+ },
+ {
+  "date": "2020.08.04.",
+  "title": "GTA Vice City Stories"
+ },
+ {
+  "date": "2020.07.26.",
+  "title": "C&C Red Alert 2 Yuris Revenge",
+  "difficulty": "Brutal"
+ },
+ {
+  "date": "2020.07.19.",
+  "title": "C&C Red Alert 2",
+  "difficulty": "Brutal"
+ },
+ {
+  "date": "2020.07.12.",
+  "title": "Command and Conquer Remastered",
+  "difficulty": "All maps Normal"
+ },
+ {
+  "date": "2020.05.22.",
+  "title": "GTA Liberty City Stories"
+ },
+ {
+  "date": "2020.05.10.",
+  "title": "GTA 3",
+  "difficulty": "100%"
+ },
+ {
+  "date": "2020.05.04.",
+  "title": "The Room"
+ },
+ {
+  "date": "2020.05.01.",
+  "title": "GTA San Andreas",
+  "difficulty": "100%"
+ },
+ {
+  "date": "2020.03.31.",
+  "title": "Doom",
+  "difficulty": "Ultra Violence"
+ },
+ {
+  "date": "2020.03.28.",
+  "title": "Doom Eternal",
+  "difficulty": "Ultra Violence"
+ },
+ {
+  "date": "2020.03.21.",
+  "title": "Tony Hawks American Wasteland"
+ },
+ {
+  "date": "2020.03.16.",
+  "title": "Tony Hawks Underground 2"
+ },
+ {
+  "date": "2020.03.12.",
+  "title": "Tony Hawks Underground"
+ },
+ {
+  "date": "2020.03.08.",
+  "title": "Tony Hawks Pro Skater 4"
+ },
+ {
+  "date": "2020.03.03.",
+  "title": "Tony Hawks Pro Skater 3"
+ },
+ {
+  "date": "2020.03.02.",
+  "title": "Tony Hawks Pro Skater 2"
+ },
+ {
+  "date": "2020.03.02.",
+  "title": "Dying Light The Following"
+ },
+ {
+  "date": "2020.02.26.",
+  "title": "Tony Hawks Pro Skater"
+ },
+ {
+  "date": "2020.02.25.",
+  "title": "Dying Light"
+ },
+ {
+  "date": "2020.02.08.",
+  "title": "Timeshift"
+ },
+ {
+  "date": "2020.01.27.",
+  "title": "Far Cry Primal"
+ },
+ {
+  "date": "2020.01.04.",
+  "title": "Need for Speed Heat"
+ },
+ {
+  "date": "2019.12.26.",
+  "title": "The Incredible Adventures of Van Helsing Final Cut"
+ },
+ {
+  "date": "2019.11.30.",
+  "title": "Mirrors Edge Catalyst"
+ },
+ {
+  "date": "2019.11.25.",
+  "title": "Dead Space 3"
+ },
+ {
+  "date": "2019.11.23.",
+  "title": "Mirrors Edge"
+ },
+ {
+  "date": "2019.11.17.",
+  "title": "Terminator Resistance"
+ },
+ {
+  "date": "2019.11.02.",
+  "title": "Postal 2 Paradise Lost"
+ },
+ {
+  "date": "2019.10.31.",
+  "title": "Postal 2 Complete"
+ },
+ {
+  "date": "2019.10.26.",
+  "title": "Psychonauts"
+ },
+ {
+  "date": "2019.10.14.",
+  "title": "Terminator Salvation"
+ },
+ {
+  "date": "2019.10.13.",
+  "title": "Watch Dogs"
+ },
+ {
+  "date": "2019.10.04.",
+  "title": "Dead Space 2"
+ },
+ {
+  "date": "2019.09.28.",
+  "title": "Dead Space"
+ },
+ {
+  "date": "2019.09.19.",
+  "title": "Battlefield Bad Company 2"
+ },
+ {
+  "date": "2019.09.15.",
+  "title": "Battlefield 3"
+ },
+ {
+  "date": "2019.09.08.",
+  "title": "Blair Witch"
+ },
+ {
+  "date": "2019.09.07.",
+  "title": "Battlefield Hardline"
+ },
+ {
+  "date": "2019.09.03.",
+  "title": "Battlefield 4"
+ },
+ {
+  "date": "2019.09.03.",
+  "title": "Battlefield 5"
+ },
+ {
+  "date": "2019.08.30.",
+  "title": "Battlefield 1"
+ },
+ {
+  "date": "2019.08.24.",
+  "title": "Prey (2017)"
+ },
+ {
+  "date": "2019.08.11.",
+  "title": "Project IGI"
+ },
+ {
+  "date": "2019.08.07.",
+  "title": "The Godfather 2"
+ },
+ {
+  "date": "2019.08.03.",
+  "title": "The Godfather"
+ },
+ {
+  "date": "2019.07.22.",
+  "title": "Quake 3 Arena"
+ },
+ {
+  "date": "2019.07.21.",
+  "title": "Journey"
+ },
+ {
+  "date": "2019.07.21.",
+  "title": "Pariah"
+ },
+ {
+  "date": "2019.07.20.",
+  "title": "Will Rock"
+ },
+ {
+  "date": "2019.07.14.",
+  "title": "Unreal 2"
+ },
+ {
+  "date": "2019.07.13.",
+  "title": "Unreal Return to Na Pali"
+ },
+ {
+  "date": "2019.07.07.",
+  "title": "Unreal"
+ },
+ {
+  "date": "2019.06.30.",
+  "title": "Quake 2 Ground Zero"
+ },
+ {
+  "date": "2019.06.28.",
+  "title": "Quake 2 The Reckoning"
+ },
+ {
+  "date": "2019.06.23.",
+  "title": "Quake 2"
+ },
+ {
+  "date": "2019.06.09.",
+  "title": "Bulletstorm"
+ },
+ {
+  "date": "2019.05.26.",
+  "title": "Blood Fresh Supply"
+ },
+ {
+  "date": "2019.04.13.",
+  "title": "Painkiller Battle Out of Hell"
+ },
+ {
+  "date": "2019.04.07.",
+  "title": "Painkiller"
+ },
+ {
+  "date": "2019.01.18.",
+  "title": "Grand Theft Auto 5"
+ },
+ {
+  "date": "2018.12.22.",
+  "title": "Crash Bandicoot N.Sane Trilogy"
+ },
+ {
+  "date": "2018.11.25.",
+  "title": "Soldier of Fortune"
+ },
+ {
+  "date": "2018.11.03.",
+  "title": "Aliens versus Predator 2 Primal Hunt"
+ },
+ {
+  "date": "2018.11.02.",
+  "title": "Aliens versus Predator 2"
+ },
+ {
+  "date": "2018.10.26.",
+  "title": "Aliens versus Predator Classic 2000"
+ },
+ {
+  "date": "2018.10.21.",
+  "title": "Red Faction Armageddon Path to War"
+ },
+ {
+  "date": "2018.10.21.",
+  "title": "Red Faction Armageddon"
+ },
+ {
+  "date": "2018.10.13.",
+  "title": "Red Faction Guerilla Re-Mars-tered"
+ },
+ {
+  "date": "2018.10.08.",
+  "title": "Red Faction 2"
+ },
+ {
+  "date": "2018.10.08.",
+  "title": "Tomb Raider (2013)"
+ },
+ {
+  "date": "2018.10.03.",
+  "title": "Red Faction"
+ },
+ {
+  "date": "2018.09.29.",
+  "title": "Mafia 3 Season Pass"
+ },
+ {
+  "date": "2018.09.22.",
+  "title": "Mafia 3"
+ },
+ {
+  "date": "2018.09.08.",
+  "title": "Layers of Fear"
+ },
+ {
+  "date": "2018.09.04.",
+  "title": "C&C Generals Zero Hour"
+ },
+ {
+  "date": "2018.08.30.",
+  "title": "C&C Generals"
+ },
+ {
+  "date": "2018.08.07.",
+  "title": "C&C Tiberium Wars Kanes Wrath"
+ },
+ {
+  "date": "2018.08.06.",
+  "title": "C&C Renegade"
+ },
+ {
+  "date": "2018.08.02.",
+  "title": "C&C Tiberium Wars"
+ },
+ {
+  "date": "2018.07.08.",
+  "title": "C&C Tiberian Sun Firestorm"
+ },
+ {
+  "date": "2018.07.02.",
+  "title": "C&C Tiberian Sun"
+ },
+ {
+  "date": "2018.06.10.",
+  "title": "C&C Red Alert 2 Yuris Revenge",
+  "difficulty": "Brutal"
+ },
+ {
+  "date": "2018.06.03.",
+  "title": "C&C Red Alert 2",
+  "difficulty": "Brutal"
+ },
+ {
+  "date": "2018.05.05.",
+  "title": "Need for Speed Carbon"
+ },
+ {
+  "date": "2018.04.22.",
+  "title": "Need for Speed Most Wanted"
+ },
+ {
+  "date": "2018.04.14.",
+  "title": "Need for Speed Underground 2"
+ },
+ {
+  "date": "2018.04.07.",
+  "title": "Need for Speed Underground"
+ },
+ {
+  "date": "2018.04.04.",
+  "title": "Doom (2016)"
+ },
+ {
+  "date": "2018.04.02.",
+  "title": "Assassins Creed Revelations"
+ },
+ {
+  "date": "2018.02.16.",
+  "title": "Assassins Creed Brotherhood"
+ },
+ {
+  "date": "2018.02.02.",
+  "title": "Resident Evil 7 Not a Hero"
+ },
+ {
+  "date": "2018.01.24.",
+  "title": "Cuphead",
+  "difficulty": "Regular"
+ },
+ {
+  "date": "2018.01.14.",
+  "title": "Resident Evil 7 End of Zoe"
+ },
+ {
+  "date": "2017.12.17.",
+  "title": "Resident Evil 7"
+ },
+ {
+  "date": "2017.12.04.",
+  "title": "Split/Second"
+ },
+ {
+  "date": "2017.11.23.",
+  "title": "Call of Duty WWII"
+ },
+ {
+  "date": "2017.11.16.",
+  "title": "Cuphead",
+  "difficulty": "Regular"
+ },
+ {
+  "date": "2017.11.07.",
+  "title": "Wolfenstein 2 The New Colossus"
+ },
+ {
+  "date": "2017.10.29.",
+  "title": "The Evil Within 2"
+ },
+ {
+  "date": "2017.10.13.",
+  "title": "The Evil Within The Executioner"
+ },
+ {
+  "date": "2017.10.11.",
+  "title": "The Evil Within The Consequence"
+ },
+ {
+  "date": "2017.10.08.",
+  "title": "The Evil Within The Assignment"
+ },
+ {
+  "date": "2017.10.02.",
+  "title": "Shadow Warrior (2013)"
+ },
+ {
+  "date": "2017.09.22.",
+  "title": "The Evil Within"
+ },
+ {
+  "date": "2017.09.06.",
+  "title": "Assassins Creed 2"
+ },
+ {
+  "date": "2017.08.13.",
+  "title": "Assassins Creed"
+ },
+ {
+  "date": "2017.08.05.",
+  "title": "Prince of Persia The Forgotten Sands"
+ },
+ {
+  "date": "2017.07.23.",
+  "title": "Prince of Persia The Two Thrones"
+ },
+ {
+  "date": "2017.07.20.",
+  "title": "Prince of Persia Warrior Within"
+ },
+ {
+  "date": "2017.07.14.",
+  "title": "Prince of Persia The Sands of Time"
+ },
+ {
+  "date": "2017.07.12.",
+  "title": "Prince of Persia (2008)"
+ },
+ {
+  "date": "2017.07.04.",
+  "title": "South Park The Stick of Truth"
+ },
+ {
+  "date": "2017.07.02.",
+  "title": "Far Cry 4"
+ },
+ {
+  "date": "2017.05.25.",
+  "title": "Crysis 3"
+ },
+ {
+  "date": "2017.05.22.",
+  "title": "STALKER Call of Pripjaty"
+ },
+ {
+  "date": "2017.05.01.",
+  "title": "STALKER Clear Sky"
+ },
+ {
+  "date": "2017.04.23.",
+  "title": "Mass Effect"
+ },
+ {
+  "date": "2017.04.20.",
+  "title": "Crysis 2"
+ },
+ {
+  "date": "2017.04.02.",
+  "title": "Far Cry 2"
+ },
+ {
+  "date": "2017.03.23.",
+  "title": "Thief Deadly Shadow"
+ },
+ {
+  "date": "2017.03.13.",
+  "title": "Crysis Warheads"
+ },
+ {
+  "date": "2017.03.12.",
+  "title": "Crysis"
+ },
+ {
+  "date": "2017.03.06.",
+  "title": "Metro 2033 Redux"
+ },
+ {
+  "date": "2017.02.23.",
+  "title": "Condemned Criminal Origins"
+ },
+ {
+  "date": "2017.02.19.",
+  "title": "Batman Arkham Origins Cold Cold Heart"
+ },
+ {
+  "date": "2017.02.07.",
+  "title": "Batman Arkham Origins"
+ },
+ {
+  "date": "2017.01.29.",
+  "title": "Batman Arkham City"
+ },
+ {
+  "date": "2017.01.14.",
+  "title": "Batman Arkham Asylum"
+ },
+ {
+  "date": "2016.12.28.",
+  "title": "Grand Theft Auto The Ballad of Gay Tony"
+ },
+ {
+  "date": "2016.12.17.",
+  "title": "Grand Theft Auto The Lost and Damned"
+ },
+ {
+  "date": "2016.12.11.",
+  "title": "Grand Theft Auto 4"
+ },
+ {
+  "date": "2016.12.10.",
+  "title": "Call of Duty"
+ },
+ {
+  "date": "2016.12.08.",
+  "title": "LA Noire"
+ },
+ {
+  "date": "2016.11.26.",
+  "title": "Call of Duty Infinite Warfare"
+ },
+ {
+  "date": "2016.11.25.",
+  "title": "Mafia"
+ },
+ {
+  "date": "2016.11.14.",
+  "title": "Mafia 2"
+ },
+ {
+  "date": "2016.11.12.",
+  "title": "Aliens Colonial Marines Stasis Interrupted"
+ },
+ {
+  "date": "2016.11.11.",
+  "title": "Aliens Colonial Marines"
+ },
+ {
+  "date": "2016.11.02.",
+  "title": "Aliens versus Predator (2010)"
+ },
+ {
+  "date": "2016.10.23.",
+  "title": "Bioshock 2 Minervas Den Remastered"
+ },
+ {
+  "date": "2016.10.18.",
+  "title": "Bioshock 2 Remastered"
+ },
+ {
+  "date": "2016.10.11.",
+  "title": "Bioshock Remastered"
+ },
+ {
+  "date": "2016.10.01.",
+  "title": "Draculas Legacy"
+ },
+ {
+  "date": "2016.09.20.",
+  "title": "Wolfenstein The Old Blood"
+ },
+ {
+  "date": "2016.08.21.",
+  "title": "Wolfenstein The New Order"
+ },
+ {
+  "date": "2016.08.07.",
+  "title": "Medal of Honor (2010)"
+ },
+ {
+  "date": "2016.08.07.",
+  "title": "Wolfenstein (2009)"
+ },
+ {
+  "date": "2016.07.31.",
+  "title": "Return to Castle Wolfenstein"
+ },
+ {
+  "date": "2016.07.19.",
+  "title": "Prey"
+ },
+ {
+  "date": "2016.07.17.",
+  "title": "Medal of Honor Airborne"
+ },
+ {
+  "date": "2016.07.10.",
+  "title": "Doom 3 BFG Edition"
+ },
+ {
+  "date": "2016.07.08.",
+  "title": "Medal of Honor Pacific Assault"
+ },
+ {
+  "date": "2016.07.03.",
+  "title": "Medal of Honor Allied Assault Breakthrough"
+ },
+ {
+  "date": "2016.06.28.",
+  "title": "Medal of Honor Allied Assault Spearhead"
+ },
+ {
+  "date": "2016.06.27.",
+  "title": "Medal of Honor Allied Assault"
+ },
+ {
+  "date": "2016.06.16.",
+  "title": "Doom"
+ },
+ {
+  "date": "2016.06.02.",
+  "title": "Doom 2"
+ },
+ {
+  "date": "2016.05.31.",
+  "title": "Doom (2016)"
+ },
+ {
+  "date": "2016.05.07.",
+  "title": "Far Cry 3 Blood Dragon"
+ },
+ {
+  "date": "2016.04.30.",
+  "title": "Far Cry 3"
+ },
+ {
+  "date": "2016.04.05.",
+  "title": "RAGE"
+ },
+ {
+  "date": "2016.01.31.",
+  "title": "Duke Nukem Forever"
+ },
+ {
+  "date": "2015.12.29.",
+  "title": "FEAR 3"
+ },
+ {
+  "date": "2015.12.01.",
+  "title": "FEAR 2 Reborn"
+ },
+ {
+  "date": "2015.11.30.",
+  "title": "FEAR 2"
+ },
+ {
+  "date": "2015.11.05.",
+  "title": "Serious Sam BFE"
+ },
+ {
+  "date": "2015.10.19.",
+  "title": "Serious Sam 2"
+ },
+ {
+  "date": "2015.10.16.",
+  "title": "Serious Sam The Second Encounter HD"
+ },
+ {
+  "date": "2015.10.04.",
+  "title": "Serious Sam The First Encounter HD"
+ },
+ {
+  "date": "2015.10.04.",
+  "title": "FEAR Perseus Mandate"
+ },
+ {
+  "date": "2015.10.02.",
+  "title": "FEAR Extraction point"
+ },
+ {
+  "date": "2015.09.28.",
+  "title": "FEAR"
+ },
+ {
+  "date": "2015.09.24.",
+  "title": "Half Life 2 Episode Two"
+ },
+ {
+  "date": "2015.09.16.",
+  "title": "Half Life 2 Episode One"
+ },
+ {
+  "date": "2015.09.13.",
+  "title": "Half Life 2"
+ },
+ {
+  "date": "2015.09.07.",
+  "title": "Half Life Blue Shift"
+ },
+ {
+  "date": "2015.09.06.",
+  "title": "Half Life Opposing Force"
+ },
+ {
+  "date": "2015.09.02.",
+  "title": "Half Life"
+ },
+ {
+  "date": "2015.08.24.",
+  "title": "Quake Dissolution of Eternity"
+ },
+ {
+  "date": "2015.08.20.",
+  "title": "Quake Scourge of Armagon"
+ },
+ {
+  "date": "2015.08.15.",
+  "title": "Quake"
+ },
+ {
+  "date": "2015.08.10.",
+  "title": "C&C Red Alert 2 Yuris Revenge",
+  "difficulty": "Brutal"
+ },
+ {
+  "date": "2015.07.28.",
+  "title": "Bioshock Infinite Burial At Sea Part II"
+ },
+ {
+  "date": "2015.07.25.",
+  "title": "Doom"
+ },
+ {
+  "date": "2015.07.23.",
+  "title": "C&C Red Alert 2",
+  "difficulty": "Brutal"
+ },
+ {
+  "date": "2015.07.08.",
+  "title": "Quake 4"
+ },
+ {
+  "date": "2015.07.06.",
+  "title": "Bioshock Infinite Burial At Sea Part I"
+ },
+ {
+  "date": "2015.04.04.",
+  "title": "Bioshock Infinite"
+ },
+ {
+  "date": "2015.02.20.",
+  "title": "Call of Duty Modern Warfare 3"
+ },
+ {
+  "date": "2014.10.05.",
+  "title": "Bioshock 2"
+ },
+ {
+  "date": "2014.09.28.",
+  "title": "Bioshock"
+ },
+ {
+  "date": "2014.09.01.",
+  "title": "Borderlands 2"
+ },
+ {
+  "date": "2014.06.02.",
+  "title": "Wolfenstein The New Order"
+ },
+ {
+  "date": "2014.05.28.",
+  "title": "Call of Duty World At War"
+ },
+ {
+  "date": "2014.05.24.",
+  "title": "Call of Duty Modern Warfare 2"
+ },
+ {
+  "date": "2014.05.13.",
+  "title": "Stalker Shadow of Chernobyl"
+ },
+ {
+  "date": "2014.05.11.",
+  "title": "Call of Duty Modern Warfare"
+ },
+ {
+  "date": "2014.05.01.",
+  "title": "Max Payne 2"
+ },
+ {
+  "date": "2014.04.22.",
+  "title": "Max Payne"
+ },
+ {
+  "date": "2014.04.13.",
+  "title": "Max Payne 3"
+ },
+ {
+  "date": "2014.02.02.",
+  "title": "Borderlands"
+ },
+ {
+  "date": "2013.12.27.",
+  "title": "Portal 2"
+ },
+ {
+  "date": "2013.12.01.",
+  "title": "Need for Speed Underground 2"
+ },
+ {
+  "date": "2013.11.15.",
+  "title": "Need for Speed Underground"
+ },
+ {
+  "date": "2013.11.11.",
+  "title": "C&C Generals Zero Hour"
+ },
+ {
+  "date": "2013.11.04.",
+  "title": "C&C Generals"
+ },
+ {
+  "date": "2013.10.20.",
+  "title": "C&C Red Alert 2 Yuris Revenge",
+  "difficulty": "Brutal"
+ },
+ {
+  "date": "2013.10.14.",
+  "title": "C&C Red Alert 2",
+  "difficulty": "Brutal"
+ },
+ {
+  "date": "2013.08.03.",
+  "title": "Bioshock Infinite"
+ },
+ {
+  "date": "2013.07.30.",
+  "title": "Far Cry",
+  "difficulty": "Hard"
+ },
+ {
+  "date": "2013.07.28.",
+  "title": "Serious Sam 2"
+ },
+ {
+  "date": "2013.07.06.",
+  "title": "Bioshock"
+ },
+ {
+  "date": "2013.07.04.",
+  "title": "Serious Sam The Second Encounter HD"
+ },
+ {
+  "date": "2013.06.17.",
+  "title": "Serious Sam The First Encounter HD"
+ },
+ {
+  "date": "2013.06.02.",
+  "title": "Serious Sam BFE"
+ },
+ {
+  "date": "2013.05.10.",
+  "title": "GTA Vicey City"
+ },
+ {
+  "date": "2013.04.25.",
+  "title": "Need for Speed Most Wanted"
+ },
+ {
+  "date": "2013.04.14.",
+  "title": "IGI 2"
+ },
+ {
+  "date": "2013.04.13.",
+  "title": "Hitman Blood Money"
+ },
+ {
+  "date": "2013.04.02.",
+  "title": "XIII"
+ },
+ {
+  "date": "2013.03.17.",
+  "title": "Hitman Codename 47"
+ },
+ {
+  "date": "2012.12.18.",
+  "title": "Project IGI"
+ },
+ {
+  "date": "2012.12.15.",
+  "title": "Blood Cryptic Passage"
+ },
+ {
+  "date": "2012.12.12.",
+  "title": "Blood"
+ },
+ {
+  "date": "2012.11.21.",
+  "title": "Duke Nukem 3D Atomic Edition"
+ },
+ {
+  "date": "2012.11.09.",
+  "title": "Doom 2"
+ },
+ {
+  "date": "2012.11.03.",
+  "title": "Doom"
+ },
+ {
+  "date": "2012.11.01.",
+  "title": "Doom 3 Resurrection of Evil"
+ },
+ {
+  "date": "2012.10.30.",
+  "title": "Doom 3"
+ },
+ {
+  "date": "2012.10.19.",
+  "title": "C&C Red Alert 2 Yuris Revenge",
+  "difficulty": "Brutal"
+ },
+ {
+  "date": "2012.10.17.",
+  "title": "Serious Sam The Second Encounter"
+ },
+ {
+  "date": "2012.10.11.",
+  "title": "Serious Sam The First Encounter"
+ },
+ {
+  "date": "2012.10.06.",
+  "title": "C&C Red Alert 2",
+  "difficulty": "Brutal"
+ },
+ {
+  "date": "2012.09.16.",
+  "title": "C&C Red Alert"
+ },
+ {
+  "date": "2012.08.31.",
+  "title": "Blood 2 The Chosen Nightmare Levels"
+ },
+ {
+  "date": "2012.08.28.",
+  "title": "Blood 2 The Chosen"
+ },
+ {
+  "date": "2012.08.25.",
+  "title": "Prince of Persia The Sands of Time"
+ },
+ {
+  "date": "2012.08.",
+  "title": "Tony Hawks Underground 2"
+ },
+ {
+  "date": "2012.08.",
+  "title": "Tony Hawks Pro Skater 4"
+ },
+ {
+  "date": "2012.08.",
+  "title": "Tony Hawks Pro Skater 3"
+ },
+ {
+  "date": "2012.08.",
+  "title": "Tony Hawks Pro Skater 2"
+ },
+ {
+  "date": "2012.08.",
+  "title": "Tony Hawks Pro Skater"
+ },
+ {
+  "date": "2012.07.",
+  "title": "The Simpsons Hit & Run"
+ },
+ {
+  "date": "2012.07.",
+  "title": "GTA San Andreas"
+ },
+ {
+  "date": "2012.07.",
+  "title": "GTA 3"
+ }
+]
