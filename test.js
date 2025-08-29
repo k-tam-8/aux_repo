@@ -1,1 +1,5 @@
-FREEDOM
+[
+ {
+  "title": "FREEDOM",
+ },
+]
