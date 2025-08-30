@@ -1,4 +1,3 @@
-let gamesArray = 
 [
  {
   "title": "A Way Out",
