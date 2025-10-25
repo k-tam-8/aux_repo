@@ -696,6 +696,13 @@
   "relYear": 2013
  },
  {
+  "title": "Deadtime Stories",
+  "dates": [],
+  "rating": "3",
+  "steamId": "picz/deadtime_stories.jpg",
+  "relYear": 2010
+ },
+ {
   "title": "Die Hard Nakatomi Plaza",
   "dates": [],
   "rating": "3",
@@ -1013,6 +1020,13 @@
   "relYear": 2007
  },
  {
+  "title": "Firewatch",
+  "dates": [],
+  "rating": "4",
+  "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/383870/capsule_231x87.jpg",
+  "relYear": 2016
+ },
+ {
   "title": "Ford Racing 2",
   "dates": [],
   "rating": "3",
@@ -1025,6 +1039,13 @@
   "rating": "4",
   "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/1347780/capsule_231x87.jpg",
   "relYear": 2003
+ },
+ {
+  "title": "Gears of War Ultimate Edition",
+  "dates": [],
+  "rating": "3",
+  "steamId": "picz/gowue.jpg",
+  "relYear": 2015
  },
  {
   "title": "Ghostwire Tokyo",
