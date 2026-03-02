@@ -1195,6 +1195,13 @@
   "relYear": 2017
  },
  {
+  "title": "Heretic + Hexen",
+  "dates": [],
+  "rating": "4",
+  "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/3286930/capsule_231x87.jpg",
+  "relYear": 2025
+ },
+ {
   "title": "Hitman 2 Silent Assassin",
   "dates": [],
   "rating": "5",
@@ -2174,6 +2181,13 @@
   "relYear": 2007
  },
  {
+  "title": "Strange Jigsaws",
+  "dates": [],
+  "rating": "4",
+  "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/2702170/capsule_231x87.jpg",
+  "relYear": 2025
+ },
+ {
   "title": "Stray",
   "dates": [],
   "rating": "4",
@@ -2186,6 +2200,13 @@
   "rating": "4",
   "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/1049410/capsule_231x87.jpg",
   "relYear": 2019
+ },
+ {
+  "title": "System Shock",
+  "dates": [],
+  "rating": "4",
+  "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/482400/capsule_231x87.jpg",
+  "relYear": 2023
  },
  {
   "title": "System Shock Enhanced Edition",
@@ -2340,6 +2361,20 @@
   "rating": "4",
   "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/257510/capsule_231x87.jpg",
   "relYear": 2014
+ },
+ {
+  "title": "The Talos Principle 2",
+  "dates": [],
+  "rating": "5",
+  "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/835960/capsule_231x87.jpg",
+  "relYear": 2023
+ },
+ {
+  "title": "The Talos Principle 2 Road to Elysium",
+  "dates": [],
+  "rating": "5",
+  "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/2981410/capsule_231x87.jpg",
+  "relYear": 2024
  },
  {
   "title": "The Talos Principle Road to Gehena",
