@@ -964,6 +964,13 @@
   "relYear": 2018
  },
  {
+  "title": "Far Cry 6",
+  "dates": [],
+  "rating": "3",
+  "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/2369390/capsule_231x87.jpg",
+  "relYear": 2021
+ },
+ {
   "title": "Far Cry New Dawn",
   "dates": [],
   "rating": "4",
@@ -1375,6 +1382,27 @@
   "rating": "4",
   "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/1030840/capsule_231x87.jpg",
   "relYear": 2020
+ },
+ {
+  "title": "Maneater",
+  "dates": [],
+  "rating": "4",
+  "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/629820/capsule_231x87.jpg",
+  "relYear": 2020
+ },
+ {
+  "title": "Maneater: Truth Quest",
+  "dates": [],
+  "rating": "4",
+  "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/1611940/capsule_231x87.jpg",
+  "relYear": 2021
+ },
+ {
+  "title": "Manhunt",
+  "dates": [],
+  "rating": "3",
+  "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/12130/capsule_231x87.jpg",
+  "relYear": 2004
  },
  {
   "title": "Mass Effect",
@@ -2424,6 +2452,13 @@
   "rating": "3",
   "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/203160/capsule_231x87.jpg",
   "relYear": 2013
+ },
+ {
+  "title": "Tomb Raider 1-3 Remastered",
+  "dates": [],
+  "rating": "4",
+  "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/2478970/capsule_231x87.jpg",
+  "relYear": 2024
  },
  {
   "title": "Tony Hawks American Wasteland",
