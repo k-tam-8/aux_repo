@@ -703,6 +703,13 @@
   "relYear": 2010
  },
  {
+  "title": "Death Stranding Directors Cut",
+  "dates": [],
+  "rating": "4",
+  "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/1850570/capsule_231x87.jpg",
+  "relYear": 2022
+ },
+ {
   "title": "Die Hard Nakatomi Plaza",
   "dates": [],
   "rating": "3",
@@ -1890,6 +1897,13 @@
   "relYear": 1997
  },
  {
+  "title": "Radical Rabbit Stew",
+  "dates": [],
+  "rating": "4",
+  "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/1232010/capsule_231x87.jpg",
+  "relYear": 2020
+ },
+ {
   "title": "RAGE",
   "dates": [],
   "rating": "3",
@@ -2000,6 +2014,13 @@
   "rating": "3",
   "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/1731080/capsule_231x87.jpg",
   "relYear": 2022
+ },
+ {
+  "title": "ReStory Chill Electronics Repairs",
+  "dates": [],
+  "rating": "4",
+  "steamId": "https://cdn.cloudflare.steamstatic.com/steam/apps/3812600/capsule_231x87.jpg",
+  "relYear": 2026
  },
  {
   "title": "Return to Castle Wolfenstein",
